@@ -17,7 +17,7 @@ I am taking steps on the path toward Cybersecurity and becoming a pentester.👁
       🪂My Next Step is 42 The Network.
 * ⚡  I'm secretly Spidergirl... but don't tell anyone. 🕷🕸
 
-### Skills
+<p align="center">### Skills</p>
 
 
 <p align="center">
