@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3D Artist & Software Developer 🤸‍♂️
 ------------------------------------
 
-I have been immersed in the 3D Art Industry for the past five years, where my passion lies in games and film animation.👾👽 👩‍💻Currently, I am expanding my expertise with knowledge Software Engineering. I am taking steps on the path toward Cybersecurity and becoming a pentester.👁‍🗨🏴‍☠️
+I have been immersed in the 3D Art Industry for the past five years, where my passion lies in games and film animation.👾
+👩‍💻Currently, I am expanding my expertise with knowledge Software Engineering.
+I am taking steps on the path toward Cybersecurity and becoming a pentester.👁‍🗨🏴‍☠️
 
 * 🌍  I'm based in Madrid, Spain.
 * 🖥️  See my portfolio at [WIP (Don't Click Me)](http://google.es)
