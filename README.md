@@ -12,7 +12,7 @@ I am taking steps on the path toward Cybersecurity and becoming a pentester.👁
 * 🌍  I'm based in Madrid, Spain.
 * 🖥️  See my portfolio at [WIP (Don't Click Me)](http://google.es)
 * ✉️  You can contact me at [caroldev@outlook.es](mailto:caroldev@outlook.es)
-* 🚀  I'm currently working on [Telefónica Tech as Product Manager in Application Security](http://telefonicatech.com)
+* 🚀  I'm currently working on [Telefónica Tech] (http://telefonicatech.com) as Product Manager focus on Application Security.
 * 🧠  I'm learning Foundations of Software Engineering in Platzi and...\
       🪂I've been in 42 The Network.
 * ⚡  I'm secretly ...
